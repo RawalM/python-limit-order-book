@@ -1,0 +1,44 @@
+ask book:
+   oid  price  size
+2  btn  115.0    17
+1  btt  113.0    46
+0  btw  112.0     3
+bid book:
+    oid  price  size
+0   byx  107.0    28
+1   byl  106.0     4
+2   byq  104.0    81
+3   bxy  100.0    16
+4   bye  100.0   107
+5   bxj   97.0    14
+6   bwu   94.0    25
+7   bqp   92.0    44
+8   brn   92.0    85
+9   bwr   92.0    92
+10  bve   90.0   102
+11  bwt   90.0   117
+12  bra   89.0    52
+13  bpx   87.0    21
+14  bre   86.0    75
+15  bps   84.0    54
+16  bpp   80.0    43
+17  bnl   78.0    24
+18  boe   77.0    70
+19  bll   74.0    42
+20  bld   71.0    26
+21  blf   70.0    26
+22  bks   66.0    50
+23  bku   63.0   249
+24  bkr   62.0    37
+25  bko   61.0    14
+26  bkn   60.0    63
+27  bkg   59.0    14
+28  bkb   56.0     3
+29  bki   56.0    42
+30  bjn   54.0    22
+31  bch   49.0   264
+--Stats--
+Total volume: 66 1906
+Best prices: 112.0 107.0 
+Mid-price: 109.5
+Spread: 5.0

@@ -1,0 +1,23 @@
+ask book:
+  oid  price  size
+9   a  105.0    20
+8   o  104.0   292
+7   d  104.0    22
+6   r  102.0   194
+5   k   99.0    71
+4   q   98.0   166
+3   m   98.0    88
+2   e   98.0    72
+1   j   97.0   132
+0   n   96.0   375
+bid book:
+  oid  price  size
+0   b   95.0   100
+1   l   95.0    29
+2   p   94.0    87
+3   s   91.0   102
+--Stats--
+Total volume: 1432 318
+Best prices: 96.0 95.0 
+Mid-price: 95.5
+Spread: 1.0
